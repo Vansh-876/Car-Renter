@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-family: 'Poppins', sans-serif;
+    color:#000;
+}
+.main{
+    margin-top:0;
+    background-color:#52AAF1;
+}
+.main h2{
+    font-size: 2rem;
+    font-weight: 500;
+    text-align: center;
+    color: #fff;
+    padding-top: 20px;
+}
+.main .container{
+    color:#000;
+    letter-spacing: 0.5px;
+    margin-top: 20px;
+}
+.main ul li{
+    margin-left: 100px;
+
+}
+.main .line{
+    height: 100px;
+    border: none;
+}
+.main .line .draw{
+    height: 2px;
+    width: 95%;
+    border-radius: 8px;
+    background-color:#176B87;
+    margin-top: 100px;
+}
+.main .line p{
+    color:rgb(44, 42, 42);
+    text-align: center;
+    font-weight: 600;
+    margin-top: 5px;
+}
