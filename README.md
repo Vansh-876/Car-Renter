@@ -8,7 +8,7 @@ Car Renter is a **simple and user-friendly car rental system** designed for hass
 ✅ Easy booking process  
 
 ## 🛠️ Technologies Used  
-🔹 HTML, CSS, JavaScript  
+🔹 HTML, CSS, BootStrap, JavaScript  
 
 ## 🖼️ Screenshots
 
