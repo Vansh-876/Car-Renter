@@ -24,7 +24,7 @@ Car Renter is a **simple and user-friendly car rental system** designed for hass
 
 ## 📌 How to Use  
 1️⃣ Clone the repository:  
-   git clone https://github.com/Tanu-panwar/Car-Renter.git
+   git clone https://github.com/Vansh-876/Car-Renter.git
     
 2️⃣ Live Demo
 🔗 [View Live](https://tanu-panwar.github.io/Car-Renter/) 
